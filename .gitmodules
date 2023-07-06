@@ -1,3 +1,6 @@
 [submodule "deep_sort_fork"]
 	path = deep_sort_fork
 	url = https://github.com/tenache/deep_sort_fork.git
+[submodule "deep_sort"]
+	path = deep_sort
+	url = https://github.com/tenache/deep_sort_fork.git
